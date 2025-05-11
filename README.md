@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 - 👨‍💻 I'm an engineer & designer
 - 📝 Currently building [Supernotes](https://supernotes.app)
